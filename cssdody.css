@@ -3,7 +3,7 @@
 .post-details,.breadcrumbs{display:none}
 #recentpostnav{border:1px solid #585858;width:100%;margin:0 auto}
 #recentpostsae{margin:0}
-#recentpostsae .recentpostel{width:38.5%;background:#fff;display:inline-block;margin:0 20px 10px 0;padding:15px;overflow:hidden;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostsae .recentpostel{width:39.5%;background:#fff;display:inline-block;margin:0 20px 10px 0;padding:15px;overflow:hidden;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
 #recentpostsae .recentpostel:nth-child(even){margin:0 0 10px 0}
 #recentpostsae .recentpostel img{background:#ecf0f1;padding:0;float:left;margin:0;margin-right:13px;width:72px}
 #recentpostsae .recentpostel h6,.recentpostel h6 a{text-decoration:none;font-size:14px;font-weight:400;margin:0;color:#000}
