@@ -1,0 +1,23 @@
+#content,.single-posts article{background:transparent;box-shadow:none;padding:0}
+.single-posts .entry-title{margin:10px auto 20px auto;text-align:center;background:rgba(0,0,0,0.08);color:#747d8c;display:table;padding:0 20px;border-radius:99em;font-size:16px}
+.post-details,.breadcrumbs{display:none}
+#recentpostnav{border:1px solid #585858;width:100%;margin:0 auto}
+#recentpostsae{margin:0}
+#recentpostsae .recentpostel{width:48.5%;background:#fff;display:inline-block;margin:0 20px 10px 0;padding:15px;overflow:hidden;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostsae .recentpostel:nth-child(even){margin:0 0 10px 0}
+#recentpostsae .recentpostel img{background:#ecf0f1;padding:0;float:left;margin:0;margin-right:13px;width:72px}
+#recentpostsae .recentpostel h6,.recentpostel h6 a{text-decoration:none;font-size:14px;font-weight:400;margin:0;color:#000}
+#recentpostsae .recentpostel:hover{background-color:#fefefe}
+#recentpostsae .recentpostel p{font-size:12px;text-align:left;color:#555;line-height:normal;margin:5px 0}
+#recentpostload{letter-spacing:-10px;text-align:center;background:transparent url(https://2.bp.blogspot.com/-GeeSB564W-o/Wum3zpg8qNI/AAAAAAAAGmM/aRoomVJFtSQfUoAJrRjD6h1wTSU8J8DUQCLcBGAs/s1600/ellipsis-preloader.gif) no-repeat 50% 50%;height:470px}
+#recentpostnavfeed{display:table;padding:5px 10px 5px 0;text-align:left;margin:15px auto}
+#recentpostnavfeed a{color:#141414;font-size:12px;font-weight:400;display:block;padding:5px 10px}
+#recentpostnavfeed span{padding:0;cursor:pointer;transition:all .3s}
+#recentpostnavfeed .next,#recentpostnavfeed .previous{position:relative;overflow:hidden;display:inline-block;background:#fff;color:#222;padding:10px 16px;font-size:1rem;border-radius:99em;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostnavfeed .next{float:right;margin:0 0 0 10px}
+#recentpostnavfeed .previous{float:left;margin:0 10px 0 0}
+#recentpostnavfeed .home{text-align:center;display:table;background:#fff;color:#222;font-size:1rem;float:none;padding:10px 16px;border-radius:99em;margin:auto;box-shadow:0 2px 3px rgba(0,0,0,0.06),0 2px 3px rgba(0,0,0,0.1)}
+#recentpostnavfeed a:hover,#recentpostnavfeed span.noactived{color:#ccc}
+#recentpostnavfeed i{font-family:fontawesome;font-style:normal}
+#recentpostnavfeed .next:hover,#recentpostnavfeed .previous:hover,#recentpostnavfeed .home:hover{background:#fff;color:#222;box-shadow:0 10px 21px rgba(0,0,0,0.15),0 6px 6px rgba(0,0,0,0.12)}
+@media screen and (max-width:993px){#recentpostsae .recentpostel{width:100%;margin:0 0 10px 0}}
