@@ -1,0 +1,38 @@
+{
+  "name": "ArtikelCara10 Hacks",
+  "short_name": "AC10",
+  "start_url": "https://www.artikelcara10.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#b31d1d",
+  "description": "Tutorial Tips Trik Hacking, Aplikasi & Tools Hacking, Linux Hacking, Ethical Hacking & Pentesting Cara Hacks.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-DmYzXMrN-8c/W5aWhD60TnI/AAAAAAAACus/2kb1EDQi7xgg0TEz_4KFfYB7ChZf2vwFgCLcBGAs/s1600/AC10-WRITER.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
