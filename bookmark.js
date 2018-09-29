@@ -28,10 +28,3 @@ jQuery(function($) {
   });
   
 });
-
-function openWin() {
-    window.open("https://www.w3schools.com", "_blank", "width=200, height=100");
-}
-function closeWin() {
-    window.close();
-}
