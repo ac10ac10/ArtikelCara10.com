@@ -34,7 +34,8 @@ videoContent.onended = contentEndedListener;
 
 // Request video ads.
 var adsRequest = new google.ima.AdsRequest();
-adsRequest.adTagUrl = 'https://ima3vpaid.appspot.com/?adTagUrl=http%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fad_type%3Dvideo%26client%3Dca-video-pub-4968145218643279%26videoad_start_delay%3D0%26description_url%3Dhttp%253A%252F%252Fwww.youtube.com%26hl%3Den%26max_ad_duration%3D40000%26adtest%3Don&type=js';
+adsRequest.adTagUrl = 'http://googleads.g.doubleclick.net/pagead/ads?ad_type=video&client=ca-video-pub-4968145218643279&videoad_start_delay=0&description_url=http%3A%2F%2Fwww.google.com&max_ad_duration=40000&adtest=on
+';
 
 
 // Specify the linear and nonlinear slot sizes. This helps the SDK to
