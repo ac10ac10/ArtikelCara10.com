@@ -39,10 +39,10 @@ adsRequest.adTagUrl = 'https://ima3vpaid.appspot.com/?adTagUrl=http%3A%2F%2Fgoog
 
 // Specify the linear and nonlinear slot sizes. This helps the SDK to
 // select the correct creative if multiple are returned.
-adsRequest.linearAdSlotWidth = 640;
-adsRequest.linearAdSlotHeight = 400;
-adsRequest.nonLinearAdSlotWidth = 640;
-adsRequest.nonLinearAdSlotHeight = 150;
+adsRequest.linearAdSlotWidth = 300;
+adsRequest.linearAdSlotHeight = 250;
+adsRequest.nonLinearAdSlotWidth = 300;
+adsRequest.nonLinearAdSlotHeight = 180;
 
 var playButton = document.getElementById('playButton');
 playButton.addEventListener('click', requestAds);
@@ -69,7 +69,7 @@ function onAdsManagerLoaded(adsManagerLoadedEvent) {
 
   try {
     // Initialize the ads manager. Ad rules playlist will start at this time.
-    adsManager.init(640, 360, google.ima.ViewMode.NORMAL);
+    adsManager.init(300, 180, google.ima.ViewMode.NORMAL);
     // Call start to show ads. Single video and overlay ads will
     // start at this time; this call will be ignored for ad rules, as ad rules
     // ads start when the adsManager is initialized.
