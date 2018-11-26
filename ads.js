@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 var videoContent = document.getElementById('contentElement');
 videoContent.play();
 
@@ -95,4 +94,3 @@ function onContentResumeRequested() {
   videoContent.addEventListener('ended', contentEndedListener);
   videoContent.play();
 }
-</script>
