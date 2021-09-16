@@ -129,7 +129,7 @@ j++;
 }
 if (a_to_vh == false) {
 var encryptedUrl = Base64.encode(a_to_vi);
-a_to_ve[i].href = "https://www.ac10hacks.com/safelink/?url=" + encryptedUrl;
+a_to_ve[i].href = "https://infoduniagames.com/exit-page/?url=" + encryptedUrl;
 a_to_ve[i].rel = "";
 a_to_ve[i].target = "_blank";
 a_to_vb++;
